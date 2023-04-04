@@ -19,14 +19,18 @@ body {
 
 .product .card .card-body h5 {
     margin-top: 5%;
-    font-size: 1.4rem;
+    font-size: 1.3rem;
     text-transform: uppercase;
     color: #cf1175;
+    border-left: 8px solid #e3eb4e;
+    padding-left: 0.4rem;
 }
 
 .product .card .card-body p {
     margin-top: 2%;
     font-size: 0.8rem;
+    border-left: 5px solid #e7a34a;
+    padding-left: 0.6rem;
 }
 
 
