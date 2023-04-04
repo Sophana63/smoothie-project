@@ -1,0 +1,33 @@
+body {
+    font-family: Poppins;
+}
+
+.product {
+    position: relative;
+    width: 95%;
+    margin: 0 auto;
+    margin-top: 15px;
+}
+
+.product .card  {
+    width: 90%;
+    margin: 0 auto;
+    border-color: #68d5b6; 
+    border-width: 0.8rem; 
+    background-color: #f8fbe7;  
+}
+
+.product .card .card-body h5 {
+    margin-top: 5%;
+    font-size: 1.4rem;
+    text-transform: uppercase;
+    color: #cf1175;
+}
+
+.product .card .card-body p {
+    margin-top: 2%;
+    font-size: 0.8rem;
+}
+
+
+
