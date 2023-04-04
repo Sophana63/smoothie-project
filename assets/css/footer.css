@@ -1,0 +1,35 @@
+#footer
+{
+    display: flex;
+    justify-content: space-around;
+}
+.Reda2
+{
+   justify-content: flex-start;
+}
+.Reda3
+{
+    justify-content: center;
+}
+.Reda4
+{
+    justify-content: center;
+}
+
+.Reda5
+{
+    justify-content: center;
+}
+.Reda6
+{
+   justify-content: flex-end;
+   max-width: 400px;
+   max-height: 300px;
+   margin-top: 20px;
+   position:absolute
+}
+
+.display
+{
+    display:flex;
+}
